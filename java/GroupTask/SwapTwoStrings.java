@@ -1,3 +1,5 @@
+package GroupTask;
+
 public class SwapTwoStrings {
 
     public static void main(String[] args) {

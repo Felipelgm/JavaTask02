@@ -1,3 +1,5 @@
+package GroupTask;
+
 public class CountAlphabeticCharacters {
     public static void main(String[] args) {
 

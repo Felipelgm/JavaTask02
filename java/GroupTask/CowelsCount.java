@@ -1,3 +1,5 @@
+package GroupTask;
+
 public class CowelsCount {
     public static void main(String[] args) {
 
